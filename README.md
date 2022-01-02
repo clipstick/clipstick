@@ -34,12 +34,10 @@
 <br />
 
 ---
-  <img align="left" alt="clipstick's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=clipstick&show_icons=true&hide_border=true&count_private=true&show_icons=true" />
+![Stats](https://github-readme-stats.vercel.app/api?username=clipstick&show_icons=true&hide_border=true&count_private=true&show_icons=true)
 <br />
-<br />
-
 ---
-  <img align="left" alt="clipstick's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clipstick&layout=compact" />
+![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=clipstick&layout=compact)
 
 [instagram]: https://www.instagram.com/vantagepointphotographix/
 [linkedin]: www.linkedin.com/in/nathan-goddard
