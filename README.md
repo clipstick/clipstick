@@ -31,8 +31,6 @@
 <br />
 ---
 
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=clipstick)
-
 [instagram]: https://www.instagram.com/vantagepointphotographix/
 [linkedin]: https://www.linkedin.com/in/nathan-goddard
 
