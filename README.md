@@ -30,7 +30,7 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=clipstick&show_icons=true&hide_border=true&count_private=true&show_icons=true)
 <br />
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clipstick)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clipstick)
 <br />
 ---
 [instagram]: https://www.instagram.com/vantagepointphotographix/
