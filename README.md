@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact **I am obsessed with Raspberry Pi's and am always looking for new projects for them.**
 
-- 🥅 2022 Goals: Contribute more to Open Source projects, gain some AWS, Azure, Docker, Kubernetes and Arduino Certs
+- 🥅 2023 Goals: Contribute more to Open Source projects, gain some AWS, Azure, Docker, Kubernetes and Arduino Certs
 
 ### Connect with me:
 
